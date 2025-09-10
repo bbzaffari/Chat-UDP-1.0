@@ -1,6 +1,8 @@
 # Chat-UDP-1.0 2023/02
 
 ![PUCRS](https://img.shields.io/badge/Made%20at-PUCRS-blue?style=flat-square&logo=bookstack&logoColor=white)
+![Badge](https://img.shields.io/badge/Purpose-Educational-blue?style=for-the-badge&logo=academia)
+
 > This project was developed as part of the Computer Networks Laboratory course during the undergraduate program at PUC-RS (Pontifícia Universidade Católica do Rio Grande do Sul). It is intended for educational purposes and may not be production-grade.
 
 ## Introduction: UDP Chat System — Server/Client over Datagram Sockets
